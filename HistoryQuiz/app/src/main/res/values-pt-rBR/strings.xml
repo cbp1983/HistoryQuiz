@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Prova de História</string>
+
+    <string name="q1">Quais desses livros tratam da rebelião de Hmelnitsky na Ucrânia?</string>
+    <string name="q1a">Ivan Franko, “Tempos Turbulentos”</string>
+    <string name="q1b">Nikolai Gogol, “Taras Bulba”</string>
+    <string name="q1c">Mikhail Lermontov, “Um Herói da Nossa Época”</string>
+    <string name="q1d">Henryk Sienkiewicz, “Com Fogo e Espada”</string>
+    <string name="q1e">Johannes Vastovius , “A Videira do Norte”</string>
+    <string name="q1Answer">1. Taras Bulba e Com Fogo e Espada tratam da rebelião de Hmelnitsky.</string>
+
+    <string name="q2">Qual é o propósito do estilo de cabelo dos cossacos??</string>
+    <string name="q2a">Ele tira o demônio do ombro dele</string>
+    <string name="q2b">Ele dá a São Pedro algo para se segurar para que ele possa tirar o Cossaco dos poços do inferno para o céu</string>
+    <string name="q2c">Homenagem a um lendário guerreiro santo</string>
+    <string name="q2d">Assim é  mais fácil distinguir os tártaros, cossacos e poloneses a uma distância maior</string>
+    <string name="q2Answer">2. O cabelo de um cossaco Ele tira o demônio do ombro dele e dá a São Pedro algo para se segurar para que ele possa tirar o Cossaco dos poços do inferno para o céu.</string>
+
+    <string name="q3">Qual par de países abaixo fizeram o maior número de guerras entre si?</string>
+    <string name="q3a">Polônia e Russia</string>
+    <string name="q3b">Prússia e Polônia</string>
+    <string name="q3c">Espanha e Holanda</string>
+    <string name="q3d">Hungría e o Império Otomano</string>
+    <string name="q3e">Dinamarca e Suécia</string>
+    <string name="q3Answer">3. Dinamarca e Suécia fizeram o maior número de guerras entre si. Dependendo dos definições, pode até ser que a Dinamarca e a Suécia tiveram mais guerras entre si do que qualquer outro par de países no mundo.</string>
+
+    <string name="q4">Alexander Nevsky virou herói da Russia devido às suas batalhas contra:</string>
+    <string name="q4a">Suecos</string>
+    <string name="q4b">Os Cavaleiros da Espada</string>
+    <string name="q4c">Polônia-Lituânia</string>
+    <string name="q4d">Os Cavaleiros Teutónicos</string>
+    <string name="q4e">A Horde Dourada</string>
+    <string name="q4Answer">4. Alexander Nevsky tornou-se um herói devido à Batalha do Gelo contra os Cavaleiros Teutônicos. Há pouca evidência real de Nevsky lutando contra os suecos, e ele lidou com a Horda de Ouro através da diplomacia.</string>
+
+    <string name="q5">Pedro I tentou modernizar a Rússia, entre outras coisas, criando impostos sobre:</string>
+    <string name="q5a">Vodka</string>
+    <string name="q5b">Charetes</string>
+    <string name="q5c">Armas de caça</string>
+    <string name="q5d">Barbas</string>
+    <string name="q5e">Cavalos</string>
+    <string name="q5Answer">5. Pedro I taxou as barbas dos nobres. O efeito pretendido era fazer com que os boyardes nobres adotassem modas modernas e, por extensão, atitudes modernas.</string>
+
+    <string name="q6">Hussars são originários de:</string>
+    <string name="q6a">Hungría</string>
+    <string name="q6b">Polônia</string>
+    <string name="q6c">Lituânia</string>
+    <string name="q6d">Ucrânia</string>
+    <string name="q6e">França</string>
+    <string name="q6Answer">6. Hussars originalmente são de Hungría.</string>
+
+    <string name="q7">A roupa tradicional cossaca inspirou o vestido nacional de qual desses países?</string>
+    <string name="q7a">Lituânia</string>
+    <string name="q7b">Ucrânia</string>
+    <string name="q7c">Georgia</string>
+    <string name="q7d">Uzbekistão</string>
+    <string name="q7e">Azerbaijão</string>
+    <string name="q7Answer">7. Os cossacos influenciaram o vestido nacional na Ucrânia, Geórgia e Azerbaijão - nos últimos casos, através dos casacos conhecidos como cherkassky.</string>
+
+    <string name="q8">O rei sueco Gustav Adolf encomendou o grande navio de guerra \"Wasa\" por sua guerra contra a Polônia-Lituânia, que afundou em sua viagem inaugural dentro do arquipélago de Estocolmo. O navio já foi recuperado e está alojado em um museu em Estocolmo. Em que ano afundou a Wasa?</string>
+    <string name="q8a">Ano</string>
+    <string name="q8Answer">8. A Wasa afundou no ano 1628.</string>
+
+    <string name="q9">Qual líder cossaco é imortalizado na música \"Volga, minha terra natal\"?</string>
+    <string name="q9a">Yemelyan Pugachev</string>
+    <string name="q9b">Ivan Bohun</string>
+    <string name="q9c">Stepan Razin</string>
+    <string name="q9d">Ivan Mazepa</string>
+    <string name="q9e">Bogdan Hmelnitsky</string>
+    <string name="q9Answer">9. \"Volga, minha terra natal\" se trata de Stepan Razin - o nome alternativo da canção é \"Stenka Razin\".</string>
+
+    <string name="q10">A região de Courland era anteriormente um Ducado, controlado em vários momentos pela Livonia, Suécia, Polônia-Lituânia, Rússia e outros. Em que país está atualmente Courland?</string>
+    <string name="q10a">Estônia</string>
+    <string name="q10b">Letônia</string>
+    <string name="q10c">Lituânia</string>
+    <string name="q10d">Polônia</string>
+    <string name="q10e">Finlândia</string>
+    <string name="q10Answer">Courland agora é uma parte de Letônia.</string>
+
+    <string name="answerButton">Confire as respostas</string>
+
+    <string name="toast1">"Você tem "</string>
+    <string name="toast2">de 10 respostas corretas!</string>
+
+    <string name="awesome">Excelente trabalho!</string>
+    <string name="good">Essas perguntas foram difíceis - bem feito!</string>
+    <string name="low">Se você gosta de aprender sobre a Europa Oriental, talvez vai curtir outros livros ou filmes sobre esse assunto?</string>
+
+</resources>
